@@ -107,13 +107,17 @@
 
 
 # 📖 EPG信息
+- https://e.erw.cc/                                     ※Erw节目单（当天预告，七天回看，每天00:30、10:05、14:50 更新）
+- https://e.erw.cc/e.xml                                 ∟当天节目单文件：e.xml
+- https://e.erw.cc/all.xml                               ∟回看七天（含当天）文件：all.xml
+- https://epg.51zmt.top:8000/                           ※老张的EPG（每日早晨7:10更新）
+- https://epg.51zmt.top:8000/e.xml                       ∟国内节目表
+- https://epg.51zmt.top:8000/e2.xml                      ∟海外节目表
+- https://epg.112114.xyz/                               ※XX的EPG（毎日０時更新）
+- https://epg.112114.xyz/pp.xml                          ∟国内节目表
 - https://epg.pw/index.html                             ※全球EPG检索网站
-- https://epg.112114.xyz/epginfo                        ※XX的EPG - 毎日０時更新
-- http://epg.51zmt.top:8000/                            ※老张的EPG - 毎日０時更新
 - https://github.com/iptv-org/epg/tree/master/sites     ※iptv-org的EPG - 不定期更新（貌似手動更新）
-- https://xmltv.tvkaista.net/                           ※各国EPG - 不定期更新（实际用的是 iptv-org ）
-- https://xmltv.tvkaista.net/guides/tv.cctv.com.xml     ※中国电视台EPG - 不定期更新
-- https://assets.livednow.com/guide.html                ※检测（https://epg.pw） - 毎日０時更新
+
 
 
 
