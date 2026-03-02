@@ -33,8 +33,8 @@ http://195.189.60.31:8003/play/a0gq/index.m3u8
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 #EXTINF:-1 tvg-id="DTV.hu@SD" tvg-logo="https://i.imgur.com/YSpqmSO.png" group-title="Undefined",DTV (720p) [Not 24/7]
 http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
-#EXTINF:-1 tvg-id="Duna.hu@SD" tvg-logo="https://i.imgur.com/oPbsSlp.png" group-title="General",Duna (720p)
-https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+#EXTINF:-1 tvg-id="Duna.hu@SD" tvg-logo="https://i.imgur.com/oPbsSlp.png" group-title="General",Duna TV (1080p)
+http://146.59.85.40:89/dunahd/index.m3u8
 #EXTINF:-1 tvg-id="DunaWorld.hu@SD" tvg-logo="https://i.imgur.com/uOBQJZS.png" group-title="General",Duna World (576p)
 http://146.59.85.40:89/dunaworld/index.m3u8
 #EXTINF:-1 tvg-id="EgykerTV.hu@SD" tvg-logo="https://i.imgur.com/yhMhvPq.png" group-title="General",Elsö Kerület TV (1080p)
@@ -85,8 +85,8 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
 https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu@SD" tvg-logo="https://i.imgur.com/Hf122ZD.png" group-title="Culture;Education",Liceum TV (576p)
 http://193.225.32.62:8890/live.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature (720p) [Geo-blocked]
-https://bamus-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@SD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-id="Loversenykozvetites.hu@SD" tvg-logo="https://i.imgur.com/IGajR6G.png" group-title="Sports",Lóverseny közvetítés (420p)
 http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="M1.hu@SD" tvg-logo="https://i.imgur.com/r4tgKZK.png" group-title="News",M1 (576p)
@@ -121,8 +121,8 @@ https://stream.streaming4u.hu/PilisTV/index.m3u8
 http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
 #EXTINF:-1 tvg-id="RakosmenteTV.hu@SD" tvg-logo="https://i.imgur.com/n39a2DT.png" group-title="General",Rákosmente TV (720p)
 http://rakosmentetv.hu:8080/hls/rmtv.m3u8
-#EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="General",Regio TV
-https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTV.sk@SD" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="General",Régió TV (406p)
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1 tvg-id="RegioPluszTV.hu@SD" tvg-logo="https://i.imgur.com/VXPpukf.png" group-title="General",RégióPlusz TV (1080p) [Geo-blocked]
 https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
 #EXTINF:-1 tvg-id="RTL.hu@SD" tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="Undefined",RTL (1080p)

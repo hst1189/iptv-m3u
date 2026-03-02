@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="scifi.ru@SD" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Science",.sci-fi
+http://31.148.48.15/SONY_SCI_FI/index.m3u8
 #EXTINF:-1 tvg-id="BFMTechCo.fr@SD" tvg-logo="https://i.imgur.com/FQ0FpXV.png" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" group-title="News;Science",BFM Tech & Co (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
@@ -18,20 +20,6 @@ https://live.teleradiocom.tj/15/3m.m3u8
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="JilinRuralChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" group-title="Education;Lifestyle;Science",Jilin Rural Channel
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
-#EXTINF:-1 tvg-id="PlutoTVScience.us@Austria" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Science",Pluto TV Science
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9359c6b-8339-43a0-b9ee-5200b879ac5f
-#EXTINF:-1 tvg-id="PlutoTVScience.us@UK" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Science",Pluto TV Science
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d9492c77ea6f99188738ff1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=14e2d1dc-1513-4fa7-9577-eda9832c92c3
-#EXTINF:-1 tvg-id="PlutoTVScience.us@US" tvg-logo="https://i.imgur.com/uhunRoU.png" group-title="Science",Pluto TV Science
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=4c2950c9-9dc5-4e8f-a2d2-732e0d6000d7
-#EXTINF:-1 tvg-id="PlutoTVSpace.us@Austria" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Science",Pluto TV Space
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d6-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23eefcec-8774-42a3-8e77-66e6e59575a3
-#EXTINF:-1 tvg-id="PlutoTVSpace.us@Germany" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Science",Pluto TV Space
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=674354cd-ccc0-44b4-ad8e-eb938137d92c
-#EXTINF:-1 tvg-id="PlutoTVSpace.us@UK" tvg-logo="https://i.imgur.com/hQwS3ui.png" group-title="Science",Pluto TV Space
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=46619747-da78-4a95-b62b-746961dbeee9
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD" tvg-logo="https://i.imgur.com/Kt5j8Vr.png" group-title="Science",Smithsonian Channel Pluto TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8199af89-664a-4d20-9685-8ab209a1b972
 #EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD" tvg-logo="https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493" http-referrer="https://tvu.umsa.bo/tvu-internacional" group-title="Documentary;Education;Science",UMSA TVU Internacional (720p)
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
@@ -39,5 +27,5 @@ https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 http://gohoski.fvds.ru:3000/mediabay/611/index.m3u8
 #EXTINF:-1 tvg-id="ShandongTVAgriculturalScienceChannel.cn@SD" tvg-logo="https://i.imgur.com/EY2zH06.png" group-title="Science",山东农科 (406p) [Geo-blocked]
 http://livealone302.iqilu.com/iqilu/nkpd.m3u8
-#EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn@SD" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Education;Science",滁州市广播电视台 科教频道 (400p)
-http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn@SD" tvg-logo="https://i.imgur.com/9JfZJRv.png" group-title="Education;Science",滁州科教 (450p)
+http://183.167.193.45:1935/live/cztvkj/playlist.m3u8

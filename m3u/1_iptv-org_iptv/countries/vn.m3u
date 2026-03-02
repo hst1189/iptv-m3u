@@ -5,8 +5,8 @@ https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV3.vn@SD" tvg-logo="https://i.imgur.com/gZUV4z8.png" group-title="Entertainment",An Giang TV3 (1080p) [Geo-blocked]
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Undefined",ANTV (1080p) [Geo-blocked]
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Undefined",ANTV (1080p)
+https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="CaMauTV.vn@SD" tvg-logo="" group-title="Undefined",Cà Mau TV (720p) [Geo-blocked]
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CanThoTV.vn@SD" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="General",Cần Thơ TV1 (1080p)
@@ -61,8 +61,9 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://i.imgur.com/q6cQzbv.png" group-title="Shop",Lao-Thai TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" group-title="General",MNB World (1080p)
-https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" tvg-logo="https://i.imgur.com/PHlj84Q.png" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="General",MNB World (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
 #EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Undefined",QPVN HD (1080p)
 https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 #EXTINF:-1 tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="News",RTM ASEAN
@@ -81,8 +82,6 @@ https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiNguyenTV.vn@SD" tvg-logo="https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png" group-title="General",Thái Nguyên TV (720p)
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Movies",tvN Movies (Indonesian Subtitle) (576p)
-http://210.210.155.37/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-id="UniquelyThai.vn@SD" tvg-logo="https://i.imgur.com/cTSDB8O.png" group-title="Shop",Uniquely Thai (720p)
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="VBSTV.us@SD" tvg-logo="https://i.imgur.com/OkslYzP.png" group-title="General",VBS TV (480p) [Not 24/7]
@@ -91,10 +90,10 @@ https://tgn.bozztv.com/vbstvcdn/vbstv/ngrp:vbstv_all/playlist.m3u8
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 #EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="Undefined",VTV1 HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV1_HD/index.m3u8
-#EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="Undefined",VTV2 HD (1080p) [Geo-blocked]
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 HD (1080p) [Geo-blocked]
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png" group-title="Undefined",VTV2 HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV2_HD/index.m3u8
+#EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV3_HD/index.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="Undefined",VTV4 HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV4_HD/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="Undefined",VTV5 HD (1080p)
@@ -103,9 +102,9 @@ https://liveh12.vtvprime.vn/hls/VTV5_HD/index.m3u8
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="Undefined",VTV5 Tây Nguyên HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
-#EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="Undefined",VTV7 HD (1080p) [Geo-blocked]
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="Undefined",VTV8 HD (1080p) [Geo-blocked]
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="Undefined",VTV9 HD (1080p) [Geo-blocked]
-https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png" group-title="Undefined",VTV7 HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV7_HD/index.m3u8
+#EXTINF:-1 tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png" group-title="Undefined",VTV8 HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV8_HD/index.m3u8
+#EXTINF:-1 tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png" group-title="Undefined",VTV9 HD (1080p)
+https://liveh12.vtvprime.vn/hls/VTV9_HD/index.m3u8

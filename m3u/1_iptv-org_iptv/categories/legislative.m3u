@@ -145,7 +145,7 @@ https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LACityView35.us@SD" tvg-logo="https://i.imgur.com/3PnD83G.png" group-title="Legislative",LA CityView 35 (1080p)
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Legislative",LCP
+#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Legislative",LCP [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
 #EXTINF:-1 tvg-id="LakeFrontTV.us@SD" tvg-logo="https://i.imgur.com/ROb1BNG.png" group-title="Legislative",Leesburg Lakefront TV (Leesburg FL) (720p)
 https://reflect-lakefront-leesburgflorida.cablecast.tv/live-6/live/live.m3u8
@@ -227,8 +227,8 @@ https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8
 http://193.147.254.64:1935/realizacion1/realizacion1/playlist.m3u8
 #EXTINF:-1 tvg-id="ParlamentodeNavarra.es@SD" tvg-logo="https://i.imgur.com/JnhWxKv.png" group-title="Legislative",Parlamento de Navarra (368p) [Not 24/7]
 https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 1 (1080p) [Geo-blocked]
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen2.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 2 (1080p) [Not 24/7]
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen3.de@SD" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 3 (1080p) [Not 24/7]
@@ -237,8 +237,9 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_d
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ParliamentofMalta.mt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png" group-title="Legislative",Parliament TV [Geo-blocked]
 http://80.79.6.221:25461/smash/public/23
-#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" group-title="Legislative",Parliament TV (720p)
-https://cdn4.skygo.mn/live/disk1/Parlament/HLSv3-FTA/Parlament.m3u8
+#EXTINF:-1 tvg-id="ParliamentTV.mn@SD" tvg-logo="https://i.imgur.com/OD7YKuz.jpeg" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Legislative",Parliament TV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
 #EXTINF:-1 tvg-id="ParliamentTV.nz@SD" tvg-logo="https://i.imgur.com/2aHW4q7.png" group-title="Legislative",Parliament TV (1080p)
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
 #EXTINF:-1 tvg-id="PascoTV.us@SD" tvg-logo="https://i.imgur.com/CM91sME.png" group-title="Legislative",Pasco TV (Pasco County FL) (480p)
@@ -265,11 +266,10 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1 tvg-id="SangsadTV.bd@SD" tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="Legislative",Sangsad TV (1080p)
 https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/9ee3b4f9-fd0a-47c5-a135-2575c5691613/9ee3b4f9-fd0a-47c5-a135-2575c5691613_3_playlist.m3u8
-#EXTINF:-1 tvg-id="SansadTV1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD/images/LOGO_HD/LOGO_HD_image.png" http-referrer="https://webcast.gov.in/" group-title="Legislative",Sansad TV 1 (1080p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://webcast.gov.in/
-https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
-#EXTINF:-1 tvg-id="SansadTV2.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="Legislative",Sansad TV 2 (1080p) [Not 24/7]
-https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+#EXTINF:-1 tvg-id="SansadTV1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANSAD_TV_SYMHYP_1_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Legislative",Sansad TV 1 (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/fff8f20221d5456e8922e689d71dedc3/index.m3u8
+#EXTINF:-1 tvg-id="SansadTV2.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png" group-title="Legislative",Sansad TV 2 (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel23.us@SD" tvg-logo="https://i.imgur.com/J2SKPoY.png" group-title="Legislative",Santa Maria Community Television Government Channel (720p)
 https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTV20SantaMonica.us@SD" tvg-logo="https://i.imgur.com/NY4fOLy.png" group-title="Legislative",Santa Monica City TV 20 (Santa Monica CA) (360p) [Not 24/7]
