@@ -8,7 +8,7 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Indonesia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Indonesia (720p)
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ANTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" group-title="General",ANTV (576i)
-http://175.158.57.130:8888/stream/channelid/1272719645
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 #EXTINF:-1 tvg-id="AshiilTV.id@SD" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="Religious",Ashiil TV (480p)
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 #EXTINF:-1 tvg-id="AsthaTV.id@HD" tvg-logo="https://asthatv.com/wp-content/uploads/2026/02/Logo-Astha.png" group-title="Undefined",Astha TV (1080p) [Not 24/7]
@@ -54,8 +54,6 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-id="BungoTV.id@SD" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="General",Bungo TV (480p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CahayaTVBanten.id@SD" tvg-logo="https://i.imgur.com/Ph9yYpb.png" group-title="Undefined",Cahaya TV Banten
-http://175.158.57.130:8888/stream/channelid/1716535390
 #EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" http-referrer="https://stream.carubantv.id" group-title="Undefined",Caruban TV (1080p)
 #EXTVLCOPT:http-referrer=https://stream.carubantv.id
 https://stream.carubantv.id/hls/0/stream.m3u8
@@ -165,6 +163,8 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 tvg-id="KilisuciTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="General",Kilisuci TV
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:-1 tvg-id="KIX.hk@SD" tvg-logo="https://i.imgur.com/zWcUAdb.png" group-title="Entertainment",KIX
+https://liveh34.vtvprime.vn/hls/KIX/04.m3u8
 #EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-logo="https://i.imgur.com/bD6UHeZ.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="News",Kompas TV [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -233,8 +233,8 @@ https://v6.siar.us/pujatv/live/chunks.m3u8
 https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="Undefined",Radar Tasikmalaya TV (720p) [Not 24/7]
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Undefined",Rajawali TV (576i)
-http://175.158.57.130:8888/stream/channelid/412436804
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" group-title="Undefined",Rajawali TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="RakyatBengkuluTV.id@SD" tvg-logo="https://i.imgur.com/5L2q081.png" http-referrer="https://youtv.live/" group-title="Undefined",Rakyat Bengkulu TV (720p)
 #EXTVLCOPT:http-referrer=https://youtv.live/
 https://flv.intechmedia.net/live/ch59.m3u8

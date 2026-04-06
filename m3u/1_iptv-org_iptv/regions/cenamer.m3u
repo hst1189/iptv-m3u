@@ -369,6 +369,8 @@ https://stream.oursnetworktv.com/latin/jubilotv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0
 #EXTINF:-1 tvg-id="Kanade.cl@SD" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="Animation;Entertainment",Kanade (1080p)
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
 #EXTINF:-1 tvg-id="KerussoTV.hn@SD" tvg-logo="https://i.imgur.com/S79uof0.png" group-title="Religious",Kerusso TV (720p)
 https://s.emisoras.tv:8081/kerussotv/index.m3u8
 #EXTINF:-1 tvg-id="Knal4Quiche.gt@SD" tvg-logo="https://i.imgur.com/YRSv2Tf.png" group-title="General",Knal 4 Quiché (720p) [Not 24/7]
@@ -438,6 +440,9 @@ https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m
 https://livehub-voidnet.onrender.com/cluster/streamcore/jp/NHK_StreamOrchestrator.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Culture;News",NHK World-Japan HD (1080p) [Geo-blocked]
 https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" http-referrer="https://www.nickelodeon.la/" group-title="Kids",Nickelodeon Latin America
+#EXTVLCOPT:http-referrer=https://www.nickelodeon.la/
+http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr@SD" tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="General",Nicoya TV (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NimTV.gt@SD" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="General",Nim TV (720p) [Not 24/7]
@@ -610,6 +615,8 @@ http://190.61.55.34:2401/play/a06t/index.m3u8
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1 tvg-id="Telemas.hn@SD" tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="General",Telemás (720p)
 https://viewhn.com/telemas/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.us@CentralAmerica" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="General",Telemundo Internacional Central America (1080p)
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-26.playlist.m3u8
 #EXTINF:-1 tvg-id="Telenorte.ni@SD" tvg-logo="https://i.imgur.com/rvxjAO6.png" group-title="General",Telenorte (480p)
 http://astrasvip.com:1935/Telenorte/Telenorte/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleProgreso.hn@SD" tvg-logo="https://i.imgur.com/yBDI3AF.png" group-title="Undefined",TeleProgreso
