@@ -27,8 +27,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=55
 http://iptv.4666888.xyz/iptv2A.php?id=36
 #EXTINF:-1 group-title="港台频道",香港面包
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 group-title="港台频道",生命电视
-http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 #EXTINF:-1 group-title="港台频道",八度空间
 http://cdn6.163189.xyz/163189/8tv
 #EXTINF:-1 group-title="港台频道",龙华偶像
@@ -37,6 +35,10 @@ http://cdn8.163189.xyz/163189/lhox
 http://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 group-title="港台频道",龙华戏剧
 http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 group-title="港台频道",龙华电影
+https://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 group-title="港台频道",龙华经典
+https://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 group-title="港台频道",澳视澳门
 http://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 group-title="港台频道",澳门综艺
@@ -75,8 +77,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=42
 http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 group-title="港台频道",民视影剧
 http://iptv.4666888.xyz/iptv2A.php?id=53
-#EXTINF:-1 group-title="港台频道",东森电影
-http://iptv.4666888.xyz/iptv2A.php?id=48
 #EXTINF:-1 group-title="港台频道",RHK31
 http://iptv.4666888.xyz/iptv2A.php?id=23
 #EXTINF:-1 group-title="港台频道",RTHK 32
@@ -89,6 +89,8 @@ http://67.220.67.246:2347/livehttpplay?channel_id=20703
 http://67.220.67.246:2347/livehttpplay?channel_id=20707
 #EXTINF:-1 group-title="港台频道",ASTRO QJ
 http://67.220.67.246:2347/livehttpplay?channel_id=20704
+#EXTINF:-1 group-title="港台频道",ASTRO爱奇艺
+https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 group-title="港台频道",ASTRO欢喜台
 http://67.220.67.246:2347/livehttpplay?channel_id=20705
 #EXTINF:-1 group-title="港台频道",纬来电影
@@ -119,6 +121,8 @@ http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 #EXTINF:-1 group-title="浙江频道",浙江国际
 http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+#EXTINF:-1 group-title="浙江频道",之江纪录
+http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
 #EXTINF:-1 group-title="广东频道",广州综合
 https://tencentplaygsm.gztv.com/live/zonghes.m3u8?txTime=65797c44&amp%3BtxSecret=7e4590b2320037d7ce49ce9eac2dd6c0
 #EXTINF:-1 group-title="广东频道",南国都市
@@ -145,6 +149,16 @@ https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
 #EXTINF:-1 group-title="云南频道",云南娱乐
 https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+#EXTINF:-1 tvg-id="内蒙古新闻综合" group-title="内蒙频道",新闻综合
+http://play1-qk.nmtv.cn/live/2316general.m3u8
+#EXTINF:-1 tvg-id="内蒙古经济生活" group-title="内蒙频道",经济生活
+http://play1-qk.nmtv.cn/live/2326general.m3u8
+#EXTINF:-1 tvg-id="内蒙古少儿" group-title="内蒙频道",少儿频道
+http://play1-qk.nmtv.cn/live/2327general.m3u8
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" group-title="内蒙频道",文体娱乐
+http://play1-qk.nmtv.cn/live/2319general.m3u8
+#EXTINF:-1 tvg-id="内蒙古农牧" group-title="内蒙频道",农牧频道
+http://play1-qk.nmtv.cn/live/2329general.m3u8
 #EXTINF:-1 group-title="河南频道",梨园频道
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=1966aa8a0405e1541cff782f56c75447&wsTime=1770400669
 #EXTINF:-1 group-title="河南频道",文物宝库
