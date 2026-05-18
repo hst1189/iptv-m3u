@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://epg.112114.xyz/logo/CCTV-1 综合.png" group-title="央视频道",CCTV-1 综合
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+http://207.56.13.146:81/cdnlive/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV-2 财经" tvg-logo="https://epg.112114.xyz/logo/CCTV-2 财经.png" group-title="央视频道",CCTV-2 财经
 http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-3 综艺" tvg-logo="https://epg.112114.xyz/logo/CCTV-3 综艺.png" group-title="央视频道",CCTV-3 综艺
@@ -8,7 +8,7 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-4 中文国际" tvg-logo="https://epg.112114.xyz/logo/CCTV-4 中文国际.png" group-title="央视频道",CCTV-4 中文国际
 http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-5 体育" tvg-logo="https://epg.112114.xyz/logo/CCTV-5 体育.png" group-title="央视频道",CCTV-5 体育
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+http://207.56.13.146:81/cdnlive/cctv5.m3u8
 #EXTINF:-1 tvg-name="CCTV-6 电影" tvg-logo="https://epg.112114.xyz/logo/CCTV-6 电影.png" group-title="央视频道",CCTV-6 电影
 http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-7 国防军事" tvg-logo="https://epg.112114.xyz/logo/CCTV-7 国防军事.png" group-title="央视频道",CCTV-7 国防军事
@@ -16,11 +16,11 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-8 电视剧" tvg-logo="https://epg.112114.xyz/logo/CCTV-8 电视剧.png" group-title="央视频道",CCTV-8 电视剧
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-9 纪录" tvg-logo="https://epg.112114.xyz/logo/CCTV-9 纪录.png" group-title="央视频道",CCTV-9 纪录
-http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+http://207.56.13.146:81/cdnlive/cctv9.m3u8
 #EXTINF:-1 tvg-name="CCTV-10 科教" tvg-logo="https://epg.112114.xyz/logo/CCTV-10 科教.png" group-title="央视频道",CCTV-10 科教
-http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+http://207.56.13.146:81/cdnlive/cctv10.m3u8
 #EXTINF:-1 tvg-name="CCTV-11 戏曲" tvg-logo="https://epg.112114.xyz/logo/CCTV-11 戏曲.png" group-title="央视频道",CCTV-11 戏曲
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+http://207.56.13.146:81/cdnlive/cctv11.m3u8
 #EXTINF:-1 tvg-name="CCTV-13 新闻" tvg-logo="https://epg.112114.xyz/logo/CCTV-13 新闻.png" group-title="央视频道",CCTV-13 新闻
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-14 少儿" tvg-logo="https://epg.112114.xyz/logo/CCTV-14 少儿.png" group-title="央视频道",CCTV-14 少儿
@@ -137,12 +137,8 @@ http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="浙江卫视HD" tvg-logo="https://epg.112114.xyz/logo/浙江卫视HD.png" group-title="卫视频道",浙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
-http://38.75.136.137:98/gslb/dsdqpub/btws.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视频道",三沙卫视
 http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视频道",厦门卫视
-http://38.75.136.137:98/gslb/dsdqpub/xmws.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://38.75.136.137:98/gslb/dsdqpub/gdgj.m3u8?auth=testpub
 #EXTINF:-1 group-title="港台频道",凤凰中文
@@ -151,22 +147,6 @@ http://cdn6.163189.xyz/163189/fhzw
 http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 group-title="港台频道",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-id="中天新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中天新闻.png" group-title="港台频道",中天新闻
-http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/寰宇新闻台.png" group-title="港台频道",寰宇新闻
-http://85.237.207.150:50007/of-litv-longturn14/index.m3u8
-#EXTINF:-1 tvg-id="华视新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/华视新闻资讯.png" group-title="港台频道",华视新闻
-http://85.237.207.150:50007/of-4gtv-4gtv052/index.m3u8
-#EXTINF:-1 tvg-id="中视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中视.png" group-title="港台频道",中视
-http://85.237.207.150:50007/of-4gtv-4gtv040/index.m3u8
-#EXTINF:-1 tvg-id="华视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/华视.png" group-title="港台频道",华视
-http://85.237.207.150:50007/of-4gtv-4gtv041/index.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻台湾频道台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/寰宇新闻台湾频道台.png" group-title="港台频道",寰宇台湾
-http://85.237.207.150:50007/of-4gtv-4gtv156/index.m3u8
-#EXTINF:-1 tvg-id="寰宇财经台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/寰宇财经台.png" group-title="港台频道",寰宇财经台
-http://85.237.207.150:50007/of-4gtv-4gtv158/index.m3u8
-#EXTINF:-1 tvg-id="亚洲旅游台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/亚洲旅游台.png" group-title="港台频道",亚洲旅游台
-http://85.237.207.150:50007/of-4gtv-4gtv076/index.m3u8
 #EXTINF:-1 tvg-id="Astro AOD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAOD.png" group-title="港台频道",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="港台频道",Astro AEC
@@ -174,7 +154,7 @@ https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 group-title="港台频道",无线新闻
 http://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 group-title="港台频道",非凡新闻
-http://iptv.4666888.xyz/iptv2A.php?id=44
+rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 group-title="港台频道",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港台频道",NOW新闻
@@ -186,9 +166,25 @@ http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 group-title="港台频道",CHU
 http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 group-title="港台频道",翡翠台
-http://iptv.4666888.xyz/iptv2A.php?id=34
+https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 group-title="港台频道",明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 group-title="港台频道",民视
 http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1 group-title="港台频道",华视
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="港台频道",台视
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="港台频道",中视
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="港台频道",纬来育乐
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="港台频道",纬来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="港台频道",纬来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="港台频道",东森超视
+rtmp://f13h.mine.nu/sat/tv331
 #EXTINF:-1 group-title="港台频道",娱乐新闻
 http://iptv.4666888.xyz/iptv2A.php?id=36
 #EXTINF:-1 group-title="港台频道",香港面包
@@ -230,7 +226,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 group-title="港台频道",天映频道
 https://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 group-title="港台频道",千禧经典
-http://iptv.4666888.xyz/iptv2A.php?id=22
+https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 group-title="港台频道",黄金华剧
+http://iptv.4666888.xyz/iptv2A.php?id=34
 #EXTINF:-1 group-title="港台频道",ROCK
 http://iptv.4666888.xyz/iptv2A.php?id=50
 #EXTINF:-1 group-title="港台频道",MYTV SUPER
@@ -255,6 +253,38 @@ https://o11.163189.xyz/stream/live/iqiyi/
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 group-title="港台频道",ViuTVsix
 https://cdn10.163189.xyz/stream/163189/viu6/
+#EXTINF:-1 group-title="港台频道",邵氏动作
+http://feilong123.vip/409990236/tv.php?id=ssdz
+#EXTINF:-1 group-title="港台频道",邵氏电影
+http://feilong123.vip/409990236/tv.php?id=ssdy
+#EXTINF:-1 group-title="港台频道",邵氏武侠
+http://feilong123.vip/409990236/tv.php?id=sswx
+#EXTINF:-1 group-title="港台频道",邵氏喜剧
+http://feilong123.vip/409990236/tv.php?id=ssxj
+#EXTINF:-1 group-title="港台频道",华艺中文
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1 group-title="港台频道",ROCK Action
+http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1 group-title="港台频道",HBO喜剧
+http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",HBO
+http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",CN卡通
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",LMN
+http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",AESTRO Football
+http://iptv.4666888.xyz/iptv2A.php?id=4
+#EXTINF:-1 group-title="港台频道",HBO精选
+http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",Cinemax精选
+http://23.237.104.106:8080/USA_MOREMAX/mono.m3u8
+#EXTINF:-1 group-title="港台频道",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",HBO王牌
+http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="港台频道",ASTRO欢喜台
+http://o11.163189.xyz/stream/live/hxt/
 #EXTINF:-1 group-title="地方频道",钱江都市
 http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 #EXTINF:-1 group-title="地方频道",经济生活
