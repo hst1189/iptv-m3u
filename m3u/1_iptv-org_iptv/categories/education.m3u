@@ -69,8 +69,8 @@ https://cloudflare.tv/hls/live.m3u8
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="CreaTVChannel28.us@SD" tvg-logo="https://i.imgur.com/rvQdzL1.png" group-title="Education",CreaTV Classrooms Channel 28 (San Jose CA) (720p)
 https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Education",Da Vinci
-https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Education",Da Vinci (576p)
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 tvg-id="DaVinciAsia.de@Vietnam" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Education",Da Vinci Asia Vietnam
 https://liveh12.vtvprime.vn/hls/DAVINVY/04.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd@SD" tvg-logo="https://i.imgur.com/BH1N6TA.png" group-title="Education;News",Dabanga TV (1080p)
@@ -172,6 +172,8 @@ https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CMAC2.us@SD" tvg-logo="https://i.imgur.com/O0sYOED.png" group-title="Education",Fresno CMAC 2 Education Channel (720p)
 https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
+#EXTINF:-1 tvg-id="GVision.cl@SD" tvg-logo="https://i.imgur.com/jUPHG21.png" group-title="Education",GVision (288p)
+https://videostream.chileservidores.com:8081/tome/index.m3u8
 #EXTINF:-1 tvg-id="Gyandarshan.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png" group-title="Education",Gyandarshan (720p)
 https://cdn-6.pishow.tv/live/14/master.m3u8
 #EXTINF:-1 tvg-id="HKTV.us@SD" tvg-logo="https://i.imgur.com/AYzdlMz.png" group-title="Education",Haddam Killingworth High School TV (HKTV) (1080p) [Geo-blocked]
@@ -274,16 +276,20 @@ https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMinhaObsessaoFavorita.us@Brazil" tvg-logo="https://i.imgur.com/ZZuaiqb.png" group-title="Education",Pluto TV Minha Obsessão Favorita
+#EXTINF:-1 tvg-id="PlutoTVMinhaObsessaoFavorita.us@BR" tvg-logo="https://images.pluto.tv/channels/61843f5e491af10007f7eefa/colorLogoPNG.png" group-title="Education",Pluto TV Minha Obsessão Favorita
 https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMisterios.us@Brazil" tvg-logo="https://i.imgur.com/gwxX1Y3.png" group-title="Education",Pluto TV Mistérios
+#EXTINF:-1 tvg-id="PlutoTVMisterios.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Education",Pluto TV Misterios
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+#EXTINF:-1 tvg-id="PlutoTVMisterios.us@BR" tvg-logo="https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png" group-title="Education",Pluto TV Mistérios
 https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNatureza.us@Brazil" tvg-logo="https://i.imgur.com/RuyQQ6M.png" group-title="Education",Pluto TV Natureza
+#EXTINF:-1 tvg-id="PlutoTVNatureza.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" group-title="Education",Pluto TV Natureza
 https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
-#EXTINF:-1 tvg-id="PlutoTVPaisagensporStingray.us@Brazil" tvg-logo="https://i.imgur.com/6kElzw7.png" group-title="Education",Pluto TV Paisagens por Stingray (720p)
+#EXTINF:-1 tvg-id="PlutoTVPaisagensporStingray.us@BR" tvg-logo="https://images.pluto.tv/channels/604a8dedbca75b0007b1c753/colorLogoPNG.png" group-title="Education",Pluto TV Paisagens por Stingray (720p)
 https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
-#EXTINF:-1 tvg-id="PlutoTVVidaReal.us@Brazil" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="Education",Pluto TV Vida Real
+#EXTINF:-1 tvg-id="PlutoTVVidaReal.us@BR" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" group-title="Education",Pluto TV Vida Real
 https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+#EXTINF:-1 tvg-id="PlutoTVVidaReal.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f32d4d9ec194100070c7449/colorLogoPNG_1732044921019.png" group-title="Education",Pluto TV Vida Real
+https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8
 #EXTINF:-1 tvg-id="PSDTV.us@SD" tvg-logo="https://i.imgur.com/djT0Q8q.png" group-title="Education",Poudre School District TV (PSD TV) (Fort Collins CO) (720p)
 https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us@Brazil" tvg-logo="https://i.imgur.com/0PkyJ3U.png" group-title="Education",Pronto-socorro: Histórias De Emergência
