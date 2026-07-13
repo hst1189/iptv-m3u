@@ -60,14 +60,17 @@ http://138.121.15.230:9002/DISNEY-CHANNEL/index.m3u8
 http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.tr@SD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Animation;Kids",Disney Jr. (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America (576p)
-http://45.189.62.33:8002/play/a0bz/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@North" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America (1080p)
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@NorthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America North HD (1080p)
 http://190.11.225.124:5000/live/disney_jr_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South (1080p)
 http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@SouthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America South HD (1080p)
 http://179.60.51.134:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Animation",DreamWorks Channel Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://103.137.83.62:9090/play/30/index.m3u8
 #EXTINF:-1 tvg-id="DreamWorksChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png" group-title="Animation",DreamWorks Channel Latin America (1080p)
 http://138.121.15.230:9002/DREAMWORKS/index.m3u8
 #EXTINF:-1 tvg-id="DreikoTV.pa@SD" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Animation",DreikoTv (720p) [Not 24/7]
@@ -131,9 +134,11 @@ https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
 https://jmp2.uk/plu-5ee92e72fb286e0007285fec.m3u8
 #EXTINF:-1 tvg-id="NarutoShippuden.us@LatAm" tvg-logo="https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png" group-title="Animation",Naruto Shippuden
 https://jmp2.uk/plu-64c92f965580090008084968.m3u8
+#EXTINF:-1 tvg-id="NickJrIndonesia.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/960px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="Animation",Nick Jr. Indonesia (720p)
+http://103.137.83.62:9090/play/27/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us@SD" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Animation;Kids",Nickelodeon Pluto TV (720p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
-#EXTINF:-1 tvg-id="NickOnline.br@SD" tvg-logo="https://x1co.com.br/logo.png" group-title="Animation;Kids",NickOnline (360p)
+#EXTINF:-1 tvg-id="NickOnline.br@SD" tvg-logo="https://x1colegal.com/logo.png" group-title="Animation;Kids",NickOnline (360p)
 https://x1colegal.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NickToonsBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nicktoons_logo_%282023%29.svg/330px-Nicktoons_logo_%282023%29.svg.png" group-title="Animation;Kids",NickToons Brasil (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
@@ -197,8 +202,8 @@ https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1 tvg-id="RetroCrush.us@SD" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="Animation;Classic",RetroCrush (1080p)
 https://linear-899.frequency.stream/dist/cineverse/899/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png" group-title="Animation;Kids",Sony Yay! (1080p) [Geo-blocked]
-https://sl.vodep39240327.workers.dev/channel/SONY+YAY.m3u8
+#EXTINF:-1 tvg-id="SonicTV.us@SD" tvg-logo="https://i.imgur.com/TKhRlrR.png" group-title="Animation",Sonic TV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=16764
 #EXTINF:-1 tvg-id="SouthPark.de@ES" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="Animation;Comedy",South Park
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
 #EXTINF:-1 tvg-id="SouthPark.de@GB" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="Animation;Comedy",South Park

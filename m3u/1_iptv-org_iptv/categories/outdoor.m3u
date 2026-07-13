@@ -7,10 +7,10 @@ https://restr2.bgtv.bg/agro/hls/agro.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro@SD" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Outdoor",Agro TV (360p) [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
-#EXTINF:-1 tvg-id="AgroTVMoldova.md@SD" tvg-logo="https://i.imgur.com/yY2RhEB.png" group-title="Outdoor",Agro TV Moldova
-https://ii.nfthost.net/static/streaming-playlists/hls/cd915b56-317a-415b-8556-871ee8a49d7c/master.m3u8
 #EXTINF:-1 tvg-id="AgroBrasilTV.br@SD" tvg-logo="https://i.imgur.com/aNkP7Zd.png" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroCanal.br@SD" tvg-logo="https://i.imgur.com/5XyopHf.png" group-title="Education;Outdoor",AgroCanal (720p)
+http://45.162.64.114/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr@SD" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTV.us@SD" tvg-logo="https://i.imgur.com/XRTfoSp.png" group-title="Outdoor",AKC TV (1080p)
@@ -25,6 +25,8 @@ https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 #EXTINF:-1 tvg-id="CanaldoCriador.br@SD" tvg-logo="https://i.imgur.com/k29So6X.png" group-title="Outdoor",Canal do Criador (1080p)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.ar@SD" tvg-logo="https://i.imgur.com/NgIBbPX.png" group-title="Outdoor",Canal Rural (576p)
+http://200.91.32.158:8080/rural/index.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br@SD" tvg-logo="https://i.imgur.com/w9R9IIX.png" group-title="Outdoor",Canal Rural (1080p)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV17.cn@HD" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="Education;Outdoor",CCTV-17 (1080p)
@@ -43,6 +45,8 @@ http://hls127.freeott.top:8080/Dikiy/video.m3u8
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="ElMundodelCampo.co@SD" tvg-logo="https://i.imgur.com/xG2apUG.jpeg" group-title="Outdoor",El Mundo del Campo (720p)
 https://movil.ejeserver.com/live/elmundodelcampo.m3u8
+#EXTINF:-1 tvg-id="FishTV.br@SD" tvg-logo="https://www.fishtv.com/public/site/images/logos/fishtv.svg" group-title="Outdoor",Fish TV (720p)
+http://167.250.126.140:7777/FISHTV-HD/index.m3u8
 #EXTINF:-1 tvg-id="HorseCountryTV.uk@SD" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Outdoor",Horse & Country TV (1080p)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Auto;Outdoor;Sports",INTROUBLE (1080p)
@@ -65,8 +69,8 @@ https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel (1080p)
 https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us@HD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel HD (720p)
-http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@HD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Outdoor",Outdoor Channel HD (1080p)
+http://40.160.24.55/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="OutsideTV.us@SD" tvg-logo="https://i.imgur.com/0UMmG41.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Outdoor",Outside (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8?ads.vf=_zniV8aeQY4
@@ -118,6 +122,8 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVEuropean.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Outdoor",Swamiji TV European (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="Outdoor",Terra Viva (720p)
+http://45.162.64.114/TERRAVIVA/index.m3u8
 #EXTINF:-1 tvg-id="TheBoatShow.us@SD" tvg-logo="https://i.imgur.com/qlhS2zw.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Outdoor",The Boat Show (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8?ads.vf=kS8ONlN67Ay
@@ -131,6 +137,8 @@ https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/playlist/amg
 https://waypoint-waypointtv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Documentary;Education;Outdoor;Relax",WildEarth (1080p)
 https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us@SD" tvg-logo="https://i.imgur.com/2llPsSV.png" group-title="Outdoor",World Fishing Network (1080p)
+http://40.160.24.55/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="Outdoor",Моя Планета (720p)
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
 #EXTINF:-1 tvg-id="Poehali.ru@SD" tvg-logo="https://i.imgur.com/ZNCpbII.png" group-title="Entertainment;Outdoor",Поехали! (1080p)

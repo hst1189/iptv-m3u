@@ -48,6 +48,8 @@ http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" group-title="Undefined",BBC News Pashto (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCNews.uk@UKHD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News UK HD (1080p)
+http://45.153.96.44:8001
 #EXTINF:-1 tvg-id="BBCOne.uk@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="General",BBC One East (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@YorkshireHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="General",BBC One East (720p) [Geo-blocked]
@@ -219,6 +221,8 @@ https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Entertainment",ENT Family (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Eurochannel.uk@SD" tvg-logo="https://i.imgur.com/yXAtmI6.png" group-title="General",Eurochannel (1080p)
+http://177.245.131.133:8080/EUROCHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@UK" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Comedy",FailArmy (720p)
 https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FaithWorldTV.uk@SD" tvg-logo="https://i.imgur.com/RLHRjQ3.png" group-title="Religious",Faith World TV (1080p)
@@ -292,8 +296,16 @@ https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/live.m3u8
 https://live-islamtv-urdu.simplestreamcdn.com/live13/islamtv_urdu/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="ITV1.uk@London" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="General",ITV1 (1080p)
 http://80.194.62.172:50002/stream/channelid/95929545
+#EXTINF:-1 tvg-id="ITV1.uk@LondonHD" tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="General",ITV1 London HD (720p)
+http://45.153.96.44:8006
 #EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2 (1080p)
 http://80.194.62.172:50002/stream/channelid/404728797
+#EXTINF:-1 tvg-id="ITV2.uk@HD" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2 HD (1080p)
+http://45.153.96.44:8007
+#EXTINF:-1 tvg-id="ITV3.uk@Plus1" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="Entertainment",ITV3 +1 (720p)
+http://45.153.96.44:8008
+#EXTINF:-1 tvg-id="ITV4.uk@HD" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="General",ITV4 HD (720p)
+http://45.153.96.44:8009
 #EXTINF:-1 tvg-id="JAG.de@GB" tvg-logo="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/colorLogoPNG.png" group-title="Series",JAG
 https://jmp2.uk/plu-660e5dc60cd4630008f6198a.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.de@GB" tvg-logo="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png" group-title="Entertainment",Judge Judy
@@ -580,7 +592,7 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=8rE20DsHHI0
 #EXTINF:-1 tvg-id="TraceUK.uk@HD" tvg-logo="https://a.jsrdn.com/hls/23073/trace-uk/logo_20240627_183320_70.png" group-title="Music",Trace UK (1080p)
-https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
+https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
 #EXTINF:-1 tvg-id="Trailers.es@UK" tvg-logo="https://i.imgur.com/RwZ1hCN.png" group-title="News",Trailers (1080p)
 https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueCrime.uk@SD" tvg-logo="https://i.imgur.com/LK2NFst.png" group-title="Series",True Crime UK (1080p)

@@ -54,7 +54,7 @@ https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 https://live.teleradiocom.tj/11/3m.m3u8
 #EXTINF:-1 tvg-id="BahrainInternational.bh@SD" tvg-logo="https://i.imgur.com/t6Lmntr.png" group-title="General",Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Balapan.kz@SD" tvg-logo="https://i.imgur.com/2o5T0gi.png" group-title="Kids",Balapan TV (1080p)
+#EXTINF:-1 tvg-id="Balapan.kz@SD" tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png" group-title="Kids",Balapan TV (1080p)
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News (1080p) [Geo-blocked]
 https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
@@ -91,8 +91,6 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentary",CGTN Documentary (1080p)
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="CGTNEurope.uk@SD" tvg-logo="https://i.imgur.com/oz0FQsE.png" group-title="News",CGTN Europe
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/cgtneurope.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="News",CGTN Français (1080p)
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNGlobalBiz.cn@SD" tvg-logo="https://i.imgur.com/qBmomnF.png" group-title="Business",CGTN Global Biz (1080p)
@@ -153,8 +151,8 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English (720p)
 https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English HD
-https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English HD (720p)
+http://45.190.28.50/EURONEWS_HD/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsItalian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Italian (720p)
 https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish (720p)
@@ -251,6 +249,8 @@ https://stream8.cinerama.uz/1014/tracks-v1a1/playlist.m3u8
 https://alpha.tv.online.tm/hls/ch003.m3u8
 #EXTINF:-1 tvg-id="Motorvision.de@SD" tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Auto",Motorvision (1080p)
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-id="MTRK.kz@SD" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="General",MTRK (576p)
+https://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 tvg-id="MTRSPT1.us@HD" tvg-logo="https://i.imgur.com/Rb1H5cV.png" group-title="Sports",MTRSPT1 (1080p)
 https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTVGlobal.uk@SD" tvg-logo="https://i.imgur.com/n2BoU7Q.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",MTV Global
@@ -279,7 +279,7 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png" group-title="Kids",Nick Jr.
 https://stream8.cinerama.uz/1501/playlist.m3u8
-#EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD" tvg-logo="https://commons.wikimedia.org/wiki/File:Short_Nick_2023.png" group-title="Kids",Nickelodeon CIS
+#EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon CIS
 https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonGlobal.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon Global (576p)
 http://46.149.191.217:9011/play/a018
@@ -472,8 +472,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 tvg-id="KTK.kz@SD" tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="General",КТК (1080p) [Not 24/7]
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MTRK.kz@SD" tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="General",МТРК (576p) [Not 24/7]
-https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 tvg-id="Novoetelevidenie.kz@SD" tvg-logo="https://i.imgur.com/mmKWrWs.png" group-title="General",Новое телевидение (576p) [Not 24/7]
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OshPirim.kg@SD" tvg-logo="https://i.ibb.co/9VBnyQ1/cropped-white.png" group-title="General",Ош Пирим (1080p) [Not 24/7]

@@ -25,8 +25,8 @@ https://hplayer1.juyun.tv/camera/154379194.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang TV (1080p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang TV HD
-https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",Arirang TV HD (720p)
+http://45.162.64.114/ARIRANG/index.m3u8
 #EXTINF:-1 tvg-id="ArirangUN.kr@SD" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News",Arirang TV UN (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiaTV.lk@HD" tvg-logo="https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png" group-title="Entertainment;Family;General",Asia TV (720p)
@@ -237,8 +237,8 @@ https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English (720p)
 https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English HD
-https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English HD (720p)
+http://45.190.28.50/EURONEWS_HD/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@AsiaPacific" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN Asia-Pacific (720p)
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionBox.nl@SD" tvg-logo="https://i.imgur.com/Taqj4yi.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Lifestyle",FashionBox
@@ -293,6 +293,8 @@ https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GugbangTV.kr@SD" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="News",Gugbang TV (1080p) [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="Culture",Hakka TV
+https://hc9lby9bzw8zcar.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 tvg-id="HarbinComprehensiveNewsChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="News",Harbin Comprehensive News Channel
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="Movies",Harbin Movie Channel
@@ -440,9 +442,8 @@ https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
 https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/kr/natv.m3u8
 #EXTINF:-1 tvg-id="NBS.kr@SD" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Education",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" tvg-logo="https://i.imgur.com/WeugJBE.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",Nei Monggol TV (960p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" tvg-logo="https://i.imgur.com/WeugJBE.png" group-title="Undefined",Nei Monggol TV (1080i) [Not 24/7]
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn@SD" tvg-logo="https://i.imgur.com/kpsjahG.png" group-title="Culture",Nei Monggol TV 2 Mongolian Culture Channel
 http://1.24.190.98:10080/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Culture;News",NHK World-Japan (1080p)
@@ -555,6 +556,8 @@ https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 http://seb.sason.top/sc/sllive_fhd.m3u8
 #EXTINF:-1 tvg-id="SevenChannel.mn@SD" tvg-logo="https://i.imgur.com/9Ld5ATz.png" group-title="General",Seven Channel (720p) [Not 24/7]
 https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
+#EXTINF:-1 tvg-id="ShaanxiSatelitalTV.cn@SD" tvg-logo="https://logo9.net/userfiles/images/877r3.jpg" group-title="General",Shaanxi Satelital TV
+http://stream.snrtv.com/sxbc-star-cdxWY0.m3u8
 #EXTINF:-1 tvg-id="ShanghaiEducationTelevisionStation.cn@SD" tvg-logo="" group-title="Culture;Education",Shanghai Education Television Station
 http://223.166.234.114:7777/tsfile/live/1033_1.m3u8
 #EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn@SD" tvg-logo="" group-title="Undefined",Shenzhen Satellite TV (2160p)
@@ -585,8 +588,8 @@ https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
 https://sy.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="Undefined",Supreme Master TV (720p)
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV (原住民電視) (720p)
-http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="General",Taiwan Indigenous TV (720p)
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="TBSTV.kr@SD" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Undefined",TBS Seoul (720p)
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TDMEntertainment.mo@SD" tvg-logo="https://i.imgur.com/7ml2bfx.png" group-title="Entertainment",TDM Entertainment Ch. 95 (720p)

@@ -279,10 +279,10 @@ https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehen.de@SchleswigHolstein" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/960px-Logo_NDR_Fernsehen_2017.svg.png" group-title="General",NDR Schleswig-Holstein (720p)
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nick Germany (1080p) [Geo-blocked]
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" group-title="Kids",Nick Jr. Club (720p)
 https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="NickelodeonClassics.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png" group-title="Kids",Nickelodeon Classics (720p)
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.de@DACH" tvg-logo="https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png" group-title="Kids",Nickelodeon Teen (720p)
@@ -347,6 +347,8 @@ https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
 https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
 #EXTINF:-1 tvg-id="ORF1.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png" group-title="General",ORF 1
 http://88.212.15.19/live/test_orf_eins_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF2.at@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" group-title="General",ORF 2 (720p)
+http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="ORFIII.at@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/960px-ORF_III_Logo_Monochrom.svg.png" group-title="Culture",ORF III HD (720p)
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-logo="https://i.imgur.com/Zxuah2b.png" group-title="Kids",ORF Kids (720p)
