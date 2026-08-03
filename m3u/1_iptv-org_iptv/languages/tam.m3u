@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/StrangeDrVN/epg/public/guide.xml.gz"
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p)
 https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67W.png?lock=720x540" group-title="Movies",&flix HD (1080p)
@@ -135,10 +135,6 @@ http://103.72.101.252:8080/live/767.m3u8
 http://103.72.101.252:8080/live/707.m3u8
 #EXTINF:-1 tvg-id="RCMusic.in@SD" tvg-logo="https://rctv.in/logo_s.png" group-title="Music",RC Music (720p)
 https://view.rcserver.in/tmp_hls1/stream/index.m3u8
-#EXTINF:-1 tvg-id="RojaMovies.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojamovies.png" group-title="Movies",Roja Movies (1080p)
-https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1 tvg-id="RojaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/rojatv.png" group-title="Entertainment",Roja TV (1080p)
-https://live.rojatv.cloud/rojatv/rojatv/index.m3u8
 #EXTINF:-1 tvg-id="SaiTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAI_TV/images/LOGO_HD/image.png" group-title="Undefined",Sai TV
 https://account31.livebox.co.in/saitvhls/live.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-logo="" group-title="Religious",Sairam TV
@@ -205,8 +201,8 @@ https://stream.ottlive.co.in/utvtamil/index.m3u8
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="VasanthTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Vasanth TV (576p)
 https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
-#EXTINF:-1 tvg-id="Vasantham.sg@SD" tvg-logo="https://i.imgur.com/vqVEcuT.png" group-title="Undefined",Vasantham
-https://app.viloud.tv/hls/channel/eb2ee7c84d70f692284466961bfedcb7.m3u8
+#EXTINF:-1 tvg-id="Vasantham.sg@SD" tvg-logo="https://i.imgur.com/vqVEcuT.png" group-title="Undefined",Vasantham [Geo-blocked]
+https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
 #EXTINF:-1 tvg-id="VasanthamTV.lk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Vasanthamtv_channel.jpg" group-title="Undefined",Vasantham TV (720p)
 https://mini.allinonereborn.fun/tata.php?id=11610
 #EXTINF:-1 tvg-id="VelichamTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png" group-title="News",Velicham TV (576p)
