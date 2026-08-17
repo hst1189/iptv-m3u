@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Generate M3U playlists from the markdown channel lists in lists/."""
 
 import os
 import re
@@ -47,6 +48,8 @@ COUNTRY_CODES = {
     "israel": "IL",
     "italy": "IT",
     "japan": "JP",
+    "kazakhstan": "KZ",
+    "kenya": "KE",
     "korea": "KR",
     "kosovo": "XK",
     "latvia": "LV",
@@ -57,8 +60,10 @@ COUNTRY_CODES = {
     "mexico": "MX",
     "moldova": "MD",
     "monaco": "MC",
+    "mongolia": "MN",
     "montenegro": "ME",
     "netherlands": "NL",
+    "nigeria": "NG",
     "north_korea": "KP",
     "north_macedonia": "MK",
     "norway": "NO",
@@ -82,6 +87,7 @@ COUNTRY_CODES = {
     "taiwan": "TW",
     "trinidad": "TT",
     "turkey": "TR",
+    "turkmenistan": "TM",
     "uk": "GB",
     "ukraine": "UA",
     "united_arab_emirates": "AE",
@@ -91,36 +97,44 @@ COUNTRY_CODES = {
 }
 
 
-class Channel:
+class Channel:  # pylint: disable=too-few-public-methods,too-many-instance-attributes
+    """A single channel entry parsed from a markdown list line."""
+
     def __init__(self, group, md_line, country_code=""):
-        self.group = group
+        self.group = group.replace('"', '')
         self.country_code = country_code
         md_line = md_line.strip()
         parts = md_line.split("|")
-        self.number = parts[1].strip()
-        self.name = parts[2].strip()
+        self.number = parts[1].strip().replace('"', '')
+        self.name = parts[2].strip().replace('"', '')
         self.url = parts[3].strip()
         self.url = self.url[self.url.find("(")+1:self.url.rfind(")")]
         self.logo = parts[4].strip()
-        self.logo = self.logo[self.logo.find('src="')+5:self.logo.rfind('"')]
+        self.logo = self.logo[self.logo.find('src="')+5:self.logo.rfind('"')].replace('"', '')
 
         self.chno = self.number if self.number and self.number != "0" else None
-        
+
         if len(parts) > 6:
-            self.epg = parts[5].strip()
+            self.epg = parts[5].strip().replace('"', '')
         else:
             self.epg = None
 
     def to_m3u_line(self):
+        """Render this channel as a #EXTINF entry followed by its URL."""
         country = f' tvg-country="{self.country_code}"' if self.country_code else ""
         chno = f' tvg-chno="{self.chno}"' if self.chno else ""
-        if self.epg is None:
-            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}"{chno}{country} group-title="{self.group}",{self.name}\n{self.url}')
-        else:
-            return (f'#EXTINF:-1 tvg-name="{self.name}" tvg-logo="{self.logo}" tvg-id="{self.epg}"{chno}{country} group-title="{self.group}",{self.name}\n{self.url}')
+        epg = f' tvg-id="{self.epg}"' if self.epg is not None else ""
+        # Strip trailing in-list markers (Ⓖ/Ⓢ/Ⓨ/...) from tvg-name so EPG
+        # matching isn't broken by a symbol meant for human readers.
+        tvg_name = re.sub(r'\s*[Ⓐ-ⓩ]+\s*$', '', self.name)
+        return (
+            f'#EXTINF:-1 tvg-name="{tvg_name}" tvg-logo="{self.logo}"{epg}{chno}{country}'
+            f' group-title="{self.group}",{self.name}\n{self.url}'
+        )
 
 
-def main():
+def main():  # pylint: disable=too-many-locals
+    """Build the combined playlist.m3u8 and one per-country playlist."""
     base_dir = os.path.dirname(os.path.abspath(__file__))
     lists_dir = os.path.join(base_dir, "lists")
     dir_playlists = os.path.join(base_dir, "playlists")
