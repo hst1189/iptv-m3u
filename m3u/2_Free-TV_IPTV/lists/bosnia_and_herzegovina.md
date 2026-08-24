@@ -15,7 +15,7 @@
 | 9   | TNT Kids | [>](https://restreamer1.tnt.ba/hls/tntkids.m3u8) | <img height="20" src="https://i.imgur.com/irTDbpn.png"/> | TNTKidsTV.ba |
 | 10  | Televizija 5 | [>](https://balkanmedia.dynu.net/hls/tv5web.m3u8) | <img height="20" src="https://i.imgur.com/znpvJys.png"/> | Televizija5.ba |
 | 11  | Kanal 6 | [>](https://restreamer1.tnt.ba/hls/kanal6.m3u8) | <img height="20" src="https://i.imgur.com/GGhvR0l.png"/> | Kanal6.ba |
-| 12  | SuperTV | [>](https://mirtv.club/live/mirtv/index.m3u8) | <img height="20" src="https://i.imgur.com/XYWgd3E.png"/> | SuperTV.ba |
+| 12  | SuperTV | [>](https://live.tv-m.net/hls/stream.m3u8) | <img height="20" src="https://i.imgur.com/XYWgd3E.png"/> | SuperTV.ba |
 | 13  | Neon TV | [>](rtsp://185.50.56.16:554/neontelvizija) | <img height="20" src="https://i.imgur.com/thC9NFp.png"/> | ntv.ba |
 
 <h2>Cantonal</h2>
@@ -26,6 +26,6 @@ https://en.wikipedia.org/wiki/Television_in_Bosnia_and_Herzegovina#Public_fundin
 |:---:|:--------------:|:-----:|:----:|:------:|
 | 1   | TVSA | [x]() | <img height="20" src="https://i.imgur.com/4b2By8o.png"/> | TVSA.ba |
 | 2   | RTV TK | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/1/1a/Logo_of_RTV_TK.png"/> | RTVTK.ba |
-| 3   | RTV USK | [x]() | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/ff/Logo_of_RTVUSK.png"/> | RTVUSK.ba |
+| 3   | RTV USK Ⓨ | [>](https://www.youtube.com/@rtvusk/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/f/ff/Logo_of_RTVUSK.png"/> | RTVUSK.ba |
 | 4   | RTV ZE Ⓢ | [>](https://stream.rtvze.ba/live/123/123.m3u8) | <img height="20" src="https://i.imgur.com/TKUaflB.png"/> | RTVZenica.ba |
 | 5   | TV BPK Ⓢ | [>](http://94.250.2.6:7374/play/a02u/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_RTV_BPK_Gora%C5%BEde.jpg" /> | RTVBPK.ba |

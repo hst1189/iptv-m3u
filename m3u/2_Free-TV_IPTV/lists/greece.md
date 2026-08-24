@@ -5,10 +5,10 @@
 
 | #  | Channel      | Link                                                                        | Logo                                                     | EPG id        |
 |:--:|:-------------|:----------------------------------------------------------------------------|:---------------------------------------------------------|:--------------|
-| 1  | ERT 1 Ⓖ      | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.mpd)       | <img height="20" src="https://i.imgur.com/WWMe8IY.png"/> | ERT1.gr       |
+| 1  | ERT 1 Ⓖ      | [>](https://ert-live.siliconweb.com/bpk-tv/ERT1/default/index.mpd)       | <img height="20" src="https://i.imgur.com/WWMe8IY.png"/> | ERT1.gr       |
 | 2  | ERT 2 Ⓖ      | [>](https://ert-live.siliconweb.com/bpk-tv/ERT2/default/index.mpd)          | <img height="20" src="https://i.imgur.com/pcusPFl.png"/> | ERT2.gr       |
-| 3  | ERT 3 Ⓖ      | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.mpd)       | <img height="20" src="https://i.imgur.com/KyhzDRm.png"/> | ERT3.gr       |
-| 4  | ERT News     | [>](https://ertflix.ascdn.broadpeak.io/ertlive/ertnews/default/index.m3u8)  | <img height="20" src="https://i.imgur.com/saIGLvr.png"/> | ERTNews.gr    |
+| 3  | ERT 3 Ⓖ      | [>](https://ert-live.siliconweb.com/bpk-tv/ERT3/default/index.mpd)       | <img height="20" src="https://i.imgur.com/KyhzDRm.png"/> | ERT3.gr       |
+| 4  | ERT News     | [>](https://ert-live.siliconweb.com/bpk-tv/ERTNews/default/index.mpd)  | <img height="20" src="https://i.imgur.com/saIGLvr.png"/> | ERTNews.gr    |
 | 5  | ERT World    | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTWorld/default/index.mpd)   | <img height="20" src="https://i.imgur.com/KsMTWYw.png"/> | ERTWorld.gr   |
 | 6  | ERT Sports 1 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports1.gr |
 | 7  | ERT Sports 2 | [>](https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports2.gr |
@@ -33,7 +33,7 @@
 | 27 | Skai TV            | [>](http://skai-live.siliconweb.com/media/cambria4/index.m3u8)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                          <img height="20" src="https://i.imgur.com/TSg7B8X.png"/>                                          |    SkaiTV.gr     |
 | 28 | Open TV            | [>](https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                          <img height="20" src="https://i.imgur.com/HzBmvPT.png"/>                                          |    OpenTV.gr     |
 | 29 | MAK TV             | [>](https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                          <img height="20" src="https://i.imgur.com/90iDHbQ.png"/>                                          |     MakTV.gr     |
-| 30 | Euronews Greek     | [x](https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708135889/ei/ccHPZYOfNpa41wLw85rgDA/ip/2001%3A9e8%3A22c%3Aee00%3A57a2%3Aeb3%3Ac696%3Aa762/id/uWIhV9gQClg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-6IDVTs5-2dy0AVeKcl5_pllEQhIzC1P6ZQqfg1nWU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKHKG1xVSTvOPOLOfAtgYGxjT5TXFh2fpuXgX3_N52NlAiEA2nRFl4bWATy1aF6dOwQLfrm1MlDEZT2BWJUOBYET0wE%3D/file/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/640px-Euronews_2016_logo.svg.png"/> | EuronewsGreek.fr |
+| 30 | Euronews Greek     | [>](https://www.youtube.com/euronewsGreek/live) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/500px-Euronews_2016_logo.svg.png"/> | EuronewsGreek.fr |
 
 
 <h2>Athens Attica Regional Channels</h2>
@@ -43,10 +43,10 @@
 | 31 | Action24        | [>](https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8)                                                       | <img height="20" src="https://i.imgur.com/Zi1YohT.png"/> | Action24TV.gr     |
 | 32 | Alert           | [>](https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8)                                                                      | <img height="20" src="https://i.imgur.com/xqa87lG.png"/> | alert.gr          |
 | 33 | ART             | [>](https://rumble.com/live-hls-dvr/73h8c2/playlist.m3u8)                                                                     | <img height="20" src="https://i.imgur.com/7TyUxLj.png"/> | arttv.gr          |
-| 34 | Blue Sky        | [>](https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8)                                                        | <img height="20" src="https://i.imgur.com/rzuQslM.png"/> | BlueSky.gr        |
+| 34 | Blue Sky        | [>](https://www.youtube.com/channel/UCBuEruzW_f-Qpj_sABmuYSg/live)                                                        | <img height="20" src="https://i.imgur.com/rzuQslM.png"/> | BlueSky.gr        |
 | 35 | High TV         | [>](https://live.streams.ovh/hightv/hightv/playlist.m3u8)                                                                     | <img height="20" src="https://i.imgur.com/wHzCGry.png"/> | hightv.gr         |
 | 36 | Kontra          | [>](https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8)                                                            | <img height="20" src="https://i.imgur.com/ROZ9VfV.png"/> | KontraChannel.gr  |
-| 37 | Mad             | [x]()                                                                                                                         | <img height="20" src="https://i.imgur.com/OTTxxGe.png"/> | Mad.gr            |
+| 37 | Mad Ⓨ           | [>](https://www.youtube.com/c/madtvgreece/live)                                                                                                                         | <img height="20" src="https://i.imgur.com/OTTxxGe.png"/> | Mad.gr            |
 | 38 | Naftemporiki TV | [>](https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8)                                                        | <img height="20" src="https://i.imgur.com/9OFdMud.png"/> | NaftemporikiTV.gr |
 | 39 | One Channel     | [>](https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8)                                                             | <img height="20" src="https://i.imgur.com/GwKaHbM.png"/> | OneChannel.gr     |
 | 40 | Rise            | [x](http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8) | <img height="20" src="https://i.imgur.com/B6ZtqJ8.png"/> | risetv.gr         |
@@ -58,12 +58,12 @@
 | #  | Channel | Link                                                                        | Logo                                                      | EPG id       |
 |:--:|:--------|:----------------------------------------------------------------------------|:----------------------------------------------------------|:-------------|
 | 51 | 4E      | [>](http://eu2.tv4e.gr:1935/live/myStream.sdp/playlist.m3u8)                | <img height="20" src="https://i.imgur.com/Ed085oJ.png"/>  | 4E.gr        |
-| 52 | DION    | [>](https://rtmp.win:3650/live/diontvlive.m3u8)                             | <img height="20" src="https://i.imgur.com/13MverN.png"/>  | DionTV.gr    |
+| 52 | DION    | [>](https://www.youtube.com/@diontileorash/live)                             | <img height="20" src="https://i.imgur.com/13MverN.png"/>  | DionTV.gr    |
 | 53 | Egnatia | [>](https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u)           | <img height="20" src="https://i.imgur.com/zuyYIca.png"/>  | egnatiatv.gr |
 | 54 | Euro    | [>](https://live20.bozztv.com/akamaissh101/ssh101/eurotvlive/playlist.m3u8) | <img height="20" src="https://i.imgur.com/mHCk05E.png"/>  | eurotv.gr    |
 | 55 | Gnomi   | [>](https://live.streams.ovh:8081/gnomitv/index.m3u8)                       | <img height="20" src="https://i.imgur.com/mHCk05E.png"/>  | gnomitv.gr   |
 | 55 | Pella   | [>](https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8)           | <img height="20" src="https://i.imgur.com/pwUkkGL.jpeg"/> | pellatv.gr   |
-| 55 | Pontos  | [>](https://rtmp.win:3842/live/recme1live.m3u8)                             | <img height="20" src="https://i.imgur.com/sbTxP6o.png"/>  | pontostv.gr  |
+| 55 | Pontos  | [>](https://www.youtube.com/@PontosTV/live)                             | <img height="20" src="https://i.imgur.com/sbTxP6o.png"/>  | pontostv.gr  |
 | 56 | TV 100  | [>](https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8)               | <img height="20" src="https://i.imgur.com/9rtf8OR.png"/>  | TV100.gr     |
 | 57 | Vergina | [>](https://verginanews.gr:8443/hls_live/stream1.m3u8)                      | <img height="20" src="https://i.imgur.com/cpF6wvR.png"/>  | verginatv.gr |
 
@@ -95,8 +95,8 @@
 
 | #  | Channel   | Link                                                          |                           Logo                           | EPG id         |
 |:--:|:----------|---------------------------------------------------------------|:--------------------------------------------------------:|:---------------|
-| 81 | Astra     | [x](https://usher.ttvnw.net/api/channel/hls/astratv2021.m3u8) | <img height="20" src="https://i.imgur.com/oYRPfZm.png"/> | astratv.gr     |
-| 82 | Thessalia | [>](https://thessaliachannel.gr:3339/live/thesstvlive.m3u8)   | <img height="20" src="https://i.imgur.com/KXz67LY.png"/> | thessaliatv.gr |
+| 81 | Astra     | [>](https://server.gointernet.gr/live/livestream.m3u8) | <img height="20" src="https://i.imgur.com/oYRPfZm.png"/> | astratv.gr     |
+| 82 | Thessalia | [>](https://www.youtube.com/c/thessaliatv1/live)   | <img height="20" src="https://i.imgur.com/KXz67LY.png"/> | thessaliatv.gr |
 | 83 | TRT       | [>](https://av.hellasnet.tv/rst/trt/index.m3u8)               | <img height="20" src="https://i.imgur.com/g0jPOcC.png"/> | trttv.gr       |
 
 
