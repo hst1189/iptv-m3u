@@ -6,13 +6,13 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | TVP1 | [>](https://lowa8026-cmyk.github.io/PL/TVP1.php.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TVP1_logo.svg/500px-TVP1_logo.svg.png"/> | TVP1.pl |
-| 2   | TVP2 | [>](https://lowa8026-cmyk.github.io/PL/TVP2.php.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TVP2_logo.svg/500px-TVP2_logo.svg.png"/> | TVP2.pl |
-| 3   | TVP3 Warszawa | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TVP3Warszawa) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/TVP3_%282016%29.svg/500px-TVP3_%282016%29.svg.png"/> | TVP3Warszawa.pl |
+| 1   | TVP1 | [>](https://lowa8026-cmyk.github.io/PL/TVP1.php.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tvp1.png/500px-Tvp1.png"/> | TVP1.pl |
+| 2   | TVP2 | [>](https://lowa8026-cmyk.github.io/PL/TVP2.php.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TVP2_HD_logo.svg/500px-TVP2_HD_logo.svg.png"/> | TVP2.pl |
+| 3   | TVP3 Warszawa | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TVP3Warszawa) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/TVP3_Warszawa_2016.svg/500px-TVP3_Warszawa_2016.svg.png"/> | TVP3Warszawa.pl |
 | 19  | TVP Polonia | [>](https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TVP_Polonia_Logo_2020.svg/500px-TVP_Polonia_Logo_2020.svg.png"/> | TVPPolonia.pl |
 | 28  | Alfa TVP | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=AlfaTVP) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alfa_TVP_%282022%29.svg/500px-Alfa_TVP_%282022%29.svg.png"/> | AlfaTVP.pl |
 | 34  | TVP Info | [>](https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/500px-TVP_Info_logo.svg.png"/> | TVPInfo.pl |
-| 36  | Belsat | [>](https://iptv.prosto.tv/ch171/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/768px-Belsat_%282022%29.svg.png"/> | BelsatTV.pl |
+| 36  | Belsat | [>](https://iptv.prosto.tv/ch171/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/960px-Belsat_%282022%29.svg.png"/> | BelsatTV.pl |
 | 91  | TVP World | [>](https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/500px-TVP_World_%282021%29.svg.png"/> | TVPWorld.pl |
 | 92  | TVP ABC 2 | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TVPABC2) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/TVP_ABC_2_%282022%29.svg/500px-TVP_ABC_2_%282022%29.svg.png"/> | TVPABC2.pl |
 | 93  | TVP Historia 2 | [x](https://www.tvkaista.net/stream-forwarder/get.php?x=TVPHistoria2) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVP_Historia_2_%282021%29.svg/500px-TVP_Historia_2_%282021%29.svg.png"/> | TVPHistoria2.pl |
